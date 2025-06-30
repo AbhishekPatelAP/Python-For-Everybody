@@ -61,7 +61,7 @@ The Capstone involved retrieving data from a REST API, storing it in a SQLite da
 
 ## 📜 Certificate
 
-✅ [View my specialization certificate on Coursera](YOUR_CERTIFICATE_LINK_HERE)
+✅ [View my specialization certificate on Coursera](https://www.coursera.org/account/accomplishments/verify/5JHUU2HJZ1RV)
 
 ---
 
@@ -93,8 +93,5 @@ Thanks to [Dr. Charles Severance (Dr. Chuck)](https://www.linkedin.com/in/charle
 
 ---
 
-## 🧩 License
-
-This repository contains coursework, but all content belongs to its respective owners as per [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Academic-integrity-and-honor-code?language=en_US). Code and notes here are for **educational purposes only**.
 
 

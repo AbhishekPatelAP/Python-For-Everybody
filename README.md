@@ -41,3 +41,11 @@ This repository contains notes, code, and project files completed as part of the
 
 ## 📁 Repository Structure
 
+python-for-everybody/
+├── 01 - Programming for Everybody/
+├── 02 - Python Data Structures/
+├── 03 - Accessing Web Data/
+├── 04 - Databases with Python/
+├── 05 - Capstone Project/
+└── README.md
+

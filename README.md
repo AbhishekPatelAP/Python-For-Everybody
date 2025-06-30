@@ -1,6 +1,4 @@
-Here’s a complete summary of the **"Python for Everybody Specialization"** offered on Coursera, one of the most popular Python courses for beginners—especially useful for aspiring data analysts, developers, and data scientists.
-
----
+# Python for Everybody
 
 ## 🧑‍🏫 **Course Name**: Python for Everybody Specialization
 

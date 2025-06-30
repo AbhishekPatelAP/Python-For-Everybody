@@ -95,3 +95,15 @@ Thanks to [Dr. Charles Severance (Dr. Chuck)](https://www.linkedin.com/in/charle
 
 
 
+python-for-everybody-specialization/
+├── 01 - Programming for Everybody/
+├── 02 - Python Data Structures/
+├── 03 - Accessing Web Data/
+├── 04 - Databases with Python/
+├── 05 - Capstone Project/
+├── README.md
+├── .gitignore
+└── images/banner.png  (optional)
+
+
+

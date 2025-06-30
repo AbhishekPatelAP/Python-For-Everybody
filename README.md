@@ -39,13 +39,62 @@ This repository contains notes, code, and project files completed as part of the
 
 ---
 
-## 📁 Repository Structure
 
-python-for-everybody/
-├── 01 - Programming for Everybody/
-├── 02 - Python Data Structures/
-├── 03 - Accessing Web Data/
-├── 04 - Databases with Python/
-├── 05 - Capstone Project/
-└── README.md
+Each folder contains:
+- 📓 Jupyter notebooks and `.py` files
+- 📝 Notes and examples
+- ✅ Practice exercises
+- 📊 Final project (in Capstone)
+
+---
+
+## 🏁 Final Capstone Project
+
+The Capstone involved retrieving data from a REST API, storing it in a SQLite database, and visualizing it. This helped me learn how to:
+
+- Automate data retrieval
+- Build end-to-end ETL pipelines
+- Clean and organize large datasets
+- Translate raw data into insights
+
+---
+
+## 📜 Certificate
+
+✅ [View my specialization certificate on Coursera](YOUR_CERTIFICATE_LINK_HERE)
+
+---
+
+## 🧰 Tools & Technologies
+
+- Python (3.x)
+- Jupyter Notebook
+- SQLite
+- REST APIs
+- BeautifulSoup
+- JSON, XML
+- matplotlib
+
+---
+
+## 📈 Skills Gained
+
+- Python programming fundamentals
+- Data structures and algorithms
+- Web scraping & REST APIs
+- SQL and database design
+- Data cleaning and file handling
+
+---
+
+## 🤝 Credits
+
+Thanks to [Dr. Charles Severance (Dr. Chuck)](https://www.linkedin.com/in/charlesseverance/) for his engaging teaching style and practical examples.
+
+---
+
+## 🧩 License
+
+This repository contains coursework, but all content belongs to its respective owners as per [Coursera Honor Code](https://www.coursera.support/s/article/209818863-Academic-integrity-and-honor-code?language=en_US). Code and notes here are for **educational purposes only**.
+
 
